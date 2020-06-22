@@ -62,5 +62,4 @@ int main(int argc, const char* argv[]) {
 	cv::destroyAllWindows();
 
 	return 0;
-}"# OpenCV_Task1" 
-"# OpenCV_Task1" 
+}
